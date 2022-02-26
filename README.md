@@ -7,5 +7,5 @@ This project uses cosine distance to find similar movie based on the tags.
 # what are the tags?
 tags are the vectorized concatinated lists including movie summary, director, cast, genres.
 
-# how cosine distance works?
+# how cosine similarity works?
 Cosine similarity measures the similarity between two vectors of an inner product space. It is measured by the cosine of the angle between two vectors and determines whether two vectors are pointing in roughly the same direction. It is often used to measure document similarity in text analysis.
